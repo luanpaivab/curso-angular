@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'curso-angular';
+  userName = 'Luan'
+  data = {
+    email: 'parent@parent.com',
+    role: 'admin'
+  }
 }

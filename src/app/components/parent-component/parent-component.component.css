@@ -1,0 +1,9 @@
+.parent {
+    background-color: rgba(177, 132, 132, 0.493);
+    height: 150px;
+    padding: 2rem;
+}
+
+.parent p {
+    margin: 0 0 10px 0;
+}

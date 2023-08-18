@@ -1,0 +1,9 @@
+.first-child {
+    background-color: rgba(174, 177, 132, 0.493);
+    height: 150px;
+    padding: 2rem;
+}
+
+.first-child p {
+    margin: 0 0 10px 0;
+}

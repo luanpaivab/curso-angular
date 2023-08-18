@@ -1,2 +1,9 @@
-<app-firs-component></app-firs-component>
-<app-parent-component [nome]="userName" [data]="data"></app-parent-component>
+<div class="app">
+    <h1>Hello Angular Routing</h1>
+    <nav>
+        <a routerLink="/">Home</a>
+        <a routerLink="/parent">parent</a>
+        <a routerLink="/list">list</a>
+    </nav>
+    <router-outlet></router-outlet>
+</div>
